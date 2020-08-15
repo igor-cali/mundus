@@ -16,3 +16,6 @@ vgcore.*
 .directory
 .bzr/*
 .bzrignore
+
+debian/files
+

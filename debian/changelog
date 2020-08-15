@@ -1,3 +1,15 @@
+mundus (3.0.2-3) focal; urgency=low
+
+  * Focal build [Ubuntu 20.04]
+
+ -- Igor Calì <igor.cali0@gmail.com>  Sat, 15 Aug 2020 08:45:25 +0200
+
+mundus (3.0.2-2) bionic; urgency=low
+
+  * bionic build
+
+ -- Igor Calì <igor.cali0@gmail.com>  Sat, 04 Aug 2018 09:26:58 +0100
+
 mundus (3.0.2-0) oneiric; urgency=critical
 
   * New build

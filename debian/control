@@ -1,10 +1,11 @@
 Source: mundus
 Section: contrib/admin
-Priority: extra
-Maintainer: sebikul <sebikul@gmail.com>
-Build-Depends: debhelper (>= 5.0.0), gambas3-dev (>= 3.6.0),
+Priority: optional
+Maintainer: Igor Calì <igor.cali0@gmail.com>
+Build-Depends: debhelper (>= 12),
+  gambas3-devel (>= 3.15.1),
   gambas3-gb-image (>= 3.6.0),
-  gambas3-gb-qt4 (>= 3.6.0),
+  gambas3-gb-qt5 (>= 3.15.1),
   gambas3-gb-form (>= 3.6.0),
   gambas3-gb-desktop (>= 3.6.0),
   gambas3-gb-desktop-x11 (>= 3.6.0),
@@ -14,10 +15,10 @@ Homepage: http://sebikul.github.io/mundus/
 
 
 Package: mundus
-Architecture: all
+Architecture: any
 Depends: gambas3-runtime (>= 3.6.0),
   gambas3-gb-image (>= 3.6.0),
-  gambas3-gb-qt4 (>= 3.6.0),
+  gambas3-gb-qt5 (>= 3.15.1),
   gambas3-gb-form (>= 3.6.0),
   gambas3-gb-desktop (>= 3.6.0),
   gambas3-gb-desktop-x11 (>= 3.6.0),
