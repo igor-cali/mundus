@@ -36,7 +36,7 @@ Please refer to the [Installation instructions](https://github.com/sebikul/mundu
 Mundus requires the [Gambas3](http://gambas.sf.net>) runtime, and the following components:
 
 * gb.image
-* gb.qt4
+* gb.qt5
 * gb.form
 * gb.desktop
 * gb.desktop.x11
